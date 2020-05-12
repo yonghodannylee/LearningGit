@@ -14,3 +14,4 @@ width / height
 margin / padding  
 font - (family / size / weight)  
 border  
+border-collapse: collapse;  
