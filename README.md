@@ -7,6 +7,8 @@ git push
 git branch (lists available branches)  
 git branch 'branch name' (creates branch with 'branch name')  
 git checkout 'branch name' (switches to 'branch name')  
+git merge 'branch name' (merges 'branch name' to current branch)  
+
 
 
 css:  
